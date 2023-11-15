@@ -1,0 +1,22 @@
+Functions in shell scripting:
+_____________________________
+what is function:
+is a block of code or script which are logically
+  divided in to various chunk and each chunk
+  need define as name and such names are called
+   as functions.
+
+used to perform coheren tasks
+
+
+why we need functions:
+______________________
+
+modularity
+resuability
+time saving
+reduce the complexity
+reduce the duplication
+
+sender---caller--function declaration-calling function
+reciever--calle---function definition-called fu
